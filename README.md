@@ -38,3 +38,10 @@ The project demonstrates an advanced approach by transforming traditional 1D phy
    ```bash
    git clone <your-repository-url>
    cd <repository-folder>
+
+## 🛠️ Installation
+
+Install dependencies:
+
+```bash
+pip install torch numpy wfdb matplotlib seaborn scipy scikit-learn
